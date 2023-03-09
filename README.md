@@ -2,7 +2,7 @@
 
 [api-url](https://van4lh8gwa.execute-api.us-west-2.amazonaws.com/dev/people)
 
-Colab with Jordan and Ty
+Colab with Jordan, Adrienne, and Ty
 
 handleRead - checks if an id is passed as a param, if not it returns all items in the db. Otherwise it returns the item that matches the id.
 
