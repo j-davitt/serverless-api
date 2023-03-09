@@ -12,3 +12,4 @@ handleUpdate - updates the item by id with what is passed in the body
 
 handleDelete - deletes the item that matches the id.
 
+![UML](./assets/UML.png)
